@@ -1,11 +1,3 @@
-<style>
-  #content ul li {
- list-style-Type: none;
- padding: 0 0 4px 23px;
- background: url(https://www.computerhope.com/cdn/arrow.png) no-repeat left center;
-}
-  </style>
-
 ### Hi, I'm Fauzan Mazlam - 21 Years Old 👋
 
 - 🔭 I’m currently working as a freelance
@@ -23,5 +15,5 @@ Education :
 <hr />
 
 <b>Project Summary :</b><br /><br />
-<i>PHP Native</i>
+<i><img src="https://www.computerhope.com/cdn/arrow.png" />PHP Native</i>
 
