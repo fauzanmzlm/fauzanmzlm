@@ -23,7 +23,7 @@
 
 <br /><br />
 <img src="https://www.computerhope.com/cdn/arrow.png" /> Laravel + Vue JS
-- Sistem Blog Sekolah
+- Blog Sekolah
 
 <br /><br />
 <img src="https://www.computerhope.com/cdn/arrow.png" /> Laravel + Livewire
