@@ -16,4 +16,10 @@
 
 <b>Project Language Summary :</b><br /><br />
 <img src="https://www.computerhope.com/cdn/arrow.png" /> PHP Native
+- Sistem Pengurusan Laporan Projek Pelajar
+- Sistem Permohonan Kerja
+- Sistem Pengurusan Sijil
+- Sistem Pengurusan Elaun Kesihatan
+
+
 
