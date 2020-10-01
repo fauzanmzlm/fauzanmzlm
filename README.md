@@ -14,6 +14,6 @@ Education :
 
 <hr />
 
-<b>Project Summary :</b><br /><br />
+<b>Project Language Summary :</b><br /><br />
 <img src="https://www.computerhope.com/cdn/arrow.png" /> PHP Native
 
