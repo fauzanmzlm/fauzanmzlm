@@ -8,5 +8,5 @@
 - ⚡ Fun fact: Enjoy Programming.
 
 Education :
-- Graduated from Politeknik Kuala Terengganu. The course is Diploma Digital Technology (DDT) 
+- Graduated from Politeknik Kuala Terengganu (PKT). The course is Diploma Digital Technology (DDT) 
 
