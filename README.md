@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Fauzan Mazlam 👋
 
 - 🔭 I’m currently working as a freelance
 - 🌱 I’m currently learning Vue JS
