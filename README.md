@@ -10,6 +10,8 @@
 Education :
 - Graduated from Politeknik Kuala Terengganu (PKT). The course is Diploma Digital Technology (DDT) 
 
+<hr />
+
 Project Summary :
 <b>PHP Native</b>
 
