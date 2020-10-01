@@ -14,6 +14,6 @@ Education :
 
 <hr />
 
-Project Summary :<br />
-<b><i>PHP Native</i></b>
+<b>Project Summary :</b><br />
+<i>PHP Native</i>
 
