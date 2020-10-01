@@ -7,6 +7,8 @@
 - 📫 How to reach me: +60179174215 (WhatsApp).
 - ⚡ Fun fact: Enjoy Programming.
 
+<hr />
+
 Education :
 - Graduated from Politeknik Kuala Terengganu (PKT). The course is Diploma Digital Technology (DDT) 
 
