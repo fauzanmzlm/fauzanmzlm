@@ -21,7 +21,7 @@
 - Sistem Pengurusan Sijil
 - Sistem Pengurusan Elaun Kesihatan
 
-<br /><br />
+<br />
 <img src="https://www.computerhope.com/cdn/arrow.png" /> Laravel + Vue JS
 
 <br /><br />
