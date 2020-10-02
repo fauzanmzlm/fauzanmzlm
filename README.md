@@ -11,6 +11,7 @@
 
 <b>Education :</b>
 - Graduated from Politeknik Kuala Terengganu (PKT). The course is Diploma Digital Technology (DDT) 
+- CGPA : 3.56
 
 <hr />
 
