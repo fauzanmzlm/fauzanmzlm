@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Vue JS
 - 👯 I’m looking to job that can make me gain more knowlegde about web developement.
 - 💬 Ask me about something related to HTML, CSS, Javascript, JQuery, Laravel, Livewire, Vue JS, PHP Native.
-- 📫 How to reach me: +60179174215 (WhatsApp).
+- 📫 How to reach me: fauzanmazlam88@gmail.com (Gmail).
 - ⚡ Fun fact: Enjoy Programming.
 
 <hr />
