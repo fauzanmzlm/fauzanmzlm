@@ -1,4 +1,4 @@
-### Hi, I'm Fauzan Mazlam - 21 Years Old 👋
+### Hi, I'm Muhammad Fauzan 👋
 
 - 🔭 I’m currently working as a freelance
 - 🌱 I’m currently learning Vue JS
