@@ -1,5 +1,6 @@
 ### Hi, I'm Muhammad Fauzan 👋
 
+- 📒 I’m currently pursuing a Bachelor's Degree in Computer Science
 - 🔭 I’m currently working as a freelance
 - 🌱 I’m currently learning Vue JS
 - 👯 I’m looking to job that can make me gain more knowlegde about web developement.
