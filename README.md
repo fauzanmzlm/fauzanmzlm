@@ -1,6 +1,5 @@
 ### Hi, I'm Muhammad Fauzan 👋
 
-- 📒 I’m currently pursuing a Bachelor's Degree in Computer Science
 - 🔭 I’m currently working as a freelance
 - 🌱 I’m currently learning Vue JS
 - 👯 I’m looking to job that can make me gain more knowlegde about web developement.
@@ -11,8 +10,8 @@
 <hr />
 
 <b>Education :</b>
-- Graduated from Politeknik Kuala Terengganu (PKT). The course is Diploma Digital Technology (DDT) 
-- CGPA : 3.56
+- Graduated from Politeknik Kuala Terengganu (PKT). The course is Diploma Digital Technology (DDT) with CGPA 3.56
+- I’m currently pursuing a Bachelor's Degree in Computer Science
 
 <hr />
 
