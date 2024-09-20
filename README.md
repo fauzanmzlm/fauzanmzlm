@@ -1,7 +1,7 @@
 ### Hi, I'm Muhammad Fauzan 👋
 
 - 🔭 I’m currently working as a freelance
-- 🌱 I’m currently learning Vue JS
+- 🌱 I’m currently learning MongoDB, ExpressJS, React, React Native, NodeJS (MERRN) Stack.
 - 👯 I’m looking to job that can make me gain more knowlegde about web developement.
 - 💬 Ask me about something related to HTML, CSS, Javascript, JQuery, Laravel, Livewire, Vue JS, PHP Native.
 - 📫 How to reach me: fauzanmazlam88@gmail.com (Gmail).
