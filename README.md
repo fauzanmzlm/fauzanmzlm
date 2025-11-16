@@ -10,7 +10,7 @@
 <hr />
 
 <b>Education :</b>
-- Graduated from Politeknik Kuala Terengganu (PKT). The course is Diploma Digital Technology (DDT) with CGPA 3.56
+- Graduated from Politeknik Kuala Terengganu (PKT). The course is Diploma Digital Technology (Programming)
 - I’m currently pursuing a Bachelor's Degree in Computer Science
 
 <hr />
